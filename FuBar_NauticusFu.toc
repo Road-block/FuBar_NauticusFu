@@ -1,0 +1,22 @@
+## Interface: 11200
+## Title: FuBar - |cffffffffNauticus|r|cff00ff00Fu|r
+## Author: Drool
+## Version: 2.0.0
+## Notes: FuBar display for Nauticus
+## RequiredDeps: FuBar,Nauticus
+## OptionalDeps: Ace2
+## DefaultState: Enabled
+## LoadOnDemand: 1
+## SavedVariables: NauticusDB
+## SavedVariablesPerCharacter: NauticusDBPC
+## X-Category: Map
+## X-eMail: droolio@gmail.com
+## X-Date: 2007-01-17
+libs\AceLibrary\AceLibrary.lua
+libs\AceEvent-2.0\AceEvent-2.0.lua
+libs\AceDB-2.0\AceDB-2.0.lua
+libs\AceAddon-2.0\AceAddon-2.0.lua
+libs\FuBarPlugin-2.0\FuBarPlugin-2.0.lua
+libs\Dewdrop-2.0\Dewdrop-2.0.lua
+libs\Tablet-2.0\Tablet-2.0.lua
+NauticusFu.lua
